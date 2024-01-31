@@ -28,25 +28,16 @@ Follow these steps to run the application:
 
 ## How to Run
 
-1. Clone this repository.
-    ```bash
-    git clone https://github.com/your-username/multithreaded-indexing.git
-    cd multithreaded-indexing
-    ```
+1. Compile the Java file:
+   javac MultithreadedIndexing.java   
 
-2. Compile the Java files.
-    ```bash
-    javac MultithreadedIndexing.java
-    ```
-
-3. Run the application.
-    ```bash
-    java MultithreadedIndexing
-    ```
+2. Run the application;
+   java MultithreadedIndexing
+    
 
 ## Note
 
 - The application relies on Java 19 features; therefore, enabling preview features is necessary.
 - The exclusion of words from `google-100.txt` ensures a focused and meaningful index.
 
-Feel free to explore the various features provided by the application and contribute to its improvement. Compile the code and run the application to experience efficient multithreaded indexing. Your feedback is appreciated!
+
